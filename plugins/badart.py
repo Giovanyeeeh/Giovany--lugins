@@ -21,4 +21,4 @@ async def sii_(message: Message):
         "__**Love u..**__\n\n 😘\n  |\  \n  |  \   \n 8=👊-D💦\n  |   \         \n 👟 👟       🤤",
         "__**Love u babe**__\n\n 😍\n  |\  \n  |  \   \n 8=👊-D\n  |   \         \n 👟 👟       🤤"
         """
-       await message.edit(out_str)
+       
