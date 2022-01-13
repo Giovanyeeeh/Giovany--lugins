@@ -3,6 +3,7 @@
 # Editado por fnixdev
 
 import asyncio
+import sys
 from datetime import datetime
 
 from kannax import Message, kannax
@@ -20,7 +21,7 @@ async def pingme(message: Message):
     
     chat_id=message.chat.id,
     photo=https://telegra.ph/file/502fcb7125a1721255337.jpg
-)
+        
     start = datetime.now()
     if "-a" in message.flags:
         await message.edit("`!....`")
