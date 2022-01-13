@@ -47,7 +47,7 @@ async def snake_(message: Message):
     ""
     
     out9 = f"""
-    (⌒ω⌒) ノ
+    (⌒ω⌒)
     """
     
     out10 = f"""
