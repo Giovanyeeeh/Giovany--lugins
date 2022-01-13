@@ -27,9 +27,9 @@ async def pingme(message: Message):
         end = datetime.now()
         t_m_s = (end - start).microseconds / 1000
         m_s = round((t_m_s - 0.6) / 3, 3)
-        await message.edit(f"🏓 Vendo os negocio aq! \n`{m_s} ᴍs`")
+        await message.edit(f"🏓 ta ai! \n`{m_s} ᴍs`")
     else:
-        await message.edit("`🏓 ta na ai`")
+        await message.edit("`🏓 Vendo os negocio aq`")
         end = datetime.now()
         m_s = (end - start).microseconds / 1000
-        await message.edit(f"ᴘɪɴɢ - `{m_s} ᴍs`\nᴜᴘᴛɪᴍᴇ - `{kannax.uptime}`")
+        await message.edit(f"ᴘɪɴɢ - `{m_s} ᴍs`\Tempo ativo - `{kannax.uptime}`")
