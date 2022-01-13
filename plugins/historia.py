@@ -106,6 +106,7 @@ E Ela ficou mostrando a bunda dela⠀
     out8 = f"""
     Apois um tempo a mina viu q o cara tava traindo ela com uma mulher mais gostosa ainda 
     """
+    
     out9 = f"""
 ____________________██████
 _________▓▓▓▓____█████████
@@ -135,6 +136,7 @@ _______▒▒▒▒▒ _____▓▓▓▓▓
 ________▒▒▒▒______▓▓▓▓▓
 ________█████____█████
 """
+    
      out10 = f"""
      Quando ela viu isso o coração dela ficou em chamas
       """       
@@ -172,7 +174,7 @@ _________________________³§³
 """
      out11 = f"""
      E ela foi matar os 2 F
-     """
+    
     
     await message.edit(out)
     await asyncio.sleep(3)
