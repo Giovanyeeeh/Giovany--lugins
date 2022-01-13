@@ -172,7 +172,7 @@ _________________________³§³
 """
      out11 = f"""
      E ela foi matar os 2 F
-    
+    """
     
     await message.edit(out)
     await asyncio.sleep(3)
