@@ -14,7 +14,7 @@ from kannax import Message, kannax
 
 @kannax.on_cmd("carinhas", about={"header": "carinhas"})
 async def snake_(message: Message):
-    """memes fodas"""
+    """carinhas fodas"""
     out = f"""
 ( ͡❛ ͜ʖ ͡❛)⠀⠀           
 """
