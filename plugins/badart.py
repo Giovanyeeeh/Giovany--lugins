@@ -1,8 +1,9 @@
+
+
+
 import asyncio
    
-    
-    from kannax import Message, kannax
-
+from kannax import Message, kannax
 
 @kannax.on_cmd("ohno", about={"header": "ohno"})
 async def sii_(message: Message):
