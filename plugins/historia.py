@@ -137,7 +137,8 @@ ________▒▒▒▒______▓▓▓▓▓
 ________█████____█████
 """
     
-     out10 = f"""Quando ela viu isso o coração dela ficou em chamas
+     out10 = f"""
+Quando ela viu isso o coração dela ficou em chamas
 """
         
 __________________________s$______________s
