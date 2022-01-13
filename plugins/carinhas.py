@@ -47,10 +47,6 @@ async def snake_(message: Message):
     ""
     
     out9 = f"""
-    ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)
-    """
-    
-    out10 = f"""
     ಠ_ಠ
     """
     
@@ -72,6 +68,3 @@ async def snake_(message: Message):
     await asyncio.sleep(1)
     await message.edit(out9)
     await asyncio.sleep(1)
-    await message.edit(out10)
-    await asyncio.sleep(1)
-    await message.edit(out11)
