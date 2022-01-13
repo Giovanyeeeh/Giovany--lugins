@@ -18,7 +18,6 @@ from kannax import Message, kannax
 )
 async def pingme(message: Message):
     
-    client.send_photo(
     chat_id=message.chat.id,
     photo=https://telegra.ph/file/502fcb7125a1721255337.jpg
 )
