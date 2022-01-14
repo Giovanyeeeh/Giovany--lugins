@@ -1,7 +1,7 @@
 import asyncio
 
 @kannax.on_cmd(r"(?:Kek|:/)$",
-               about={'header': "Check yourself, hint: :P"}, name='Kek',
+               about={'header': "Check yourself, hint: :/"}, name='Kek',
                trigger='', allow_via_bot=False)
 async def kek_(message: Message):
     """hue"""
