@@ -2,10 +2,7 @@ import asyncio
 import os
 import random
 import re
-import requests
-import wget
-import datetime
-import math
+
 from cowpy import cow
 from random import randint, choice
 
